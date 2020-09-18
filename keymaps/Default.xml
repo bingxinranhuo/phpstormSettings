@@ -1,0 +1,11 @@
+<keymap version="1" name="Default副本" parent="$default">
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="add" />
+  </action>
+  <action id="Macro.;">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="Macro.行尾加逗号">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>

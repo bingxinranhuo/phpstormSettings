@@ -1,0 +1,9 @@
+<toolSet name="PHP手册">
+  <tool name="PHP手册" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+      <option name="PARAMETERS" value="-a http://php.net/manual-lookup.php?pattern=.$SelectedText$.&amp;scope=quickref" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

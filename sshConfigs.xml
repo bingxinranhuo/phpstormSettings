@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="47.105.116.233" id="e0c2d8d7-58bd-4b4c-be50-de922b806465" keyPath="C:\Users\nature\OneDrive\备份\ljl_ali.pem" port="22" customName="myali/work" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="myali/work" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.3.20" id="27e2ede8-c8db-4ee6-bd80-872b0f2034e0" port="22" nameFormat="DESCRIPTIVE" username="luojianglai" />
+    </configs>
+  </component>
+</application>
